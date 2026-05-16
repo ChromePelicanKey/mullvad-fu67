@@ -1,4 +1,4 @@
-
+high-speed Mullvad Module | WireGuard-support + L2TP-support is the best Mullvad module, featuring WireGuard-support and L2TP-support. Secure, fast, and optimized for privacy.
 
 
 
